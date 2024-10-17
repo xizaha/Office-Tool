@@ -39,7 +39,6 @@ Functions and Features:
 ## Download and quick start
 
 - [Download](https://otp.landian.vip/download.html)
-- [Quick start](https://github.com/YerongAI/Office-Tool/wiki)
 - [Documentation](https://otp.landian.vip/help/)
 
 Or download Office Tool Plus using PowerShell:
@@ -53,7 +52,7 @@ irm https://otp.landian.vip/get/ | iex
 Site 2:
 
 ```powershell
-irm https://officetool.plus/get/ | iex
+irm https://www.officetool.plus/get/ | iex
 ```
 
 ## Thanks to the Translators
@@ -74,7 +73,6 @@ irm https://officetool.plus/get/ | iex
 | ru-ru | Русский (Россия) | [Долматов Алексей](https://github.com/iDolmatov) |
 | th-th | ไทย (ไทย) | [dekthaiinchina](https://github.com/dekthaiinchina) |
 | tr-tr | Türkçe (Türkiye) | [Tayfun Akkoyun](https://github.com/crasadure) |
-| zh-hk | 繁體中文 (香港) | [TurboHK](https://github.com/TurboHK) |
 | zh-tw | 繁體中文 (台灣) | [Yi Chi](https://www.cotpear.com), [Yi-Jyun Pan](https://github.com/pan93412) |
 
 ## Help With Localization
