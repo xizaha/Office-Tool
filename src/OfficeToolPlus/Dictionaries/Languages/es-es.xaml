@@ -157,10 +157,6 @@
     <sys:String x:Key="Deploy_iSlide.Description">PlaceHolder</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install">PlaceHolder</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install.Name">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT.Description">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install.Name">PlaceHolder</sys:String>
 
     <sys:String x:Key="Deploy_Product">Productos</sys:String>
     <sys:String x:Key="Deploy_Product.Description">{0} producto(s) instalado(s), {1} listo(s) para implementar y {2} listo(s) para desinstalar.</sys:String>

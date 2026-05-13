@@ -157,10 +157,6 @@
     <sys:String x:Key="Deploy_iSlide.Description">iSlide 提供海量 PPT 素材下载，更有 PPT 智能排版，让 PPT 设计更简单。</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install">立即安装</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install.Name">立即安装 iSlide 插件。</sys:String>
-    <sys:String x:Key="Deploy_AiPPT">安装 AiPPT 插件</sys:String>
-    <sys:String x:Key="Deploy_AiPPT.Description">AiPPT 提供海量专业 PPT 资源，支持 Ai 一键生成/美化，做 PPT 更轻松。</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install">立即安装</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install.Name">立即安装 AiPPT 插件。</sys:String>
 
     <sys:String x:Key="Deploy_Product">产品</sys:String>
     <sys:String x:Key="Deploy_Product.Description">{0} 个已安装的产品，{1} 个准备部署，{2} 个准备卸载。</sys:String>

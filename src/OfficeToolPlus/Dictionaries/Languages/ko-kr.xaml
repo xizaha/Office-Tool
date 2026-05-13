@@ -157,10 +157,6 @@
     <sys:String x:Key="Deploy_iSlide.Description">PlaceHolder</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install">PlaceHolder</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install.Name">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT.Description">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install.Name">PlaceHolder</sys:String>
 
     <sys:String x:Key="Deploy_Product">제품</sys:String>
     <sys:String x:Key="Deploy_Product.Description">{0}개의 제품이 설치되었으며, {1}개를 배포할 준비가 되었고 {2}개를 제거할 준비가 되었습니다.</sys:String>

@@ -157,10 +157,6 @@
     <sys:String x:Key="Deploy_iSlide.Description">PlaceHolder</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install">PlaceHolder</sys:String>
     <sys:String x:Key="Deploy_iSlide_Install.Name">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT.Description">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install">PlaceHolder</sys:String>
-    <sys:String x:Key="Deploy_AiPPT_Install.Name">PlaceHolder</sys:String>
 
     <sys:String x:Key="Deploy_Product">Sản phẩm</sys:String>
     <sys:String x:Key="Deploy_Product.Description">Đã cài đặt {0} sản phẩm, {1} sản phẩm sẵn sàng triển khai và {2} sản phẩm sẵn sàng gỡ cài đặt.</sys:String>
